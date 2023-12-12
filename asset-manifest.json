@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pruebac/static/css/main.f855e6bc.css",
+    "main.js": "/pruebac/static/js/main.843e1943.js",
+    "static/js/787.7711d01c.chunk.js": "/pruebac/static/js/787.7711d01c.chunk.js",
+    "static/media/logo.svg": "/pruebac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pruebac/index.html",
+    "main.f855e6bc.css.map": "/pruebac/static/css/main.f855e6bc.css.map",
+    "main.843e1943.js.map": "/pruebac/static/js/main.843e1943.js.map",
+    "787.7711d01c.chunk.js.map": "/pruebac/static/js/787.7711d01c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.843e1943.js"
+  ]
+}
